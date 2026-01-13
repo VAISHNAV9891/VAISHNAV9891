@@ -25,7 +25,7 @@
     <li><b>Core Logic:</b> Advanced Cart Management, Order Processing, and Stripe Payments.</li>
     <li><b>Performance:</b> Optimized Database Indexing and Rate Limiting.</li>
   </ul>
-  👉 <a href="PASTE_YOUR_LINK_HERE"><b>Check out my recent backend project :D</b></a>
+  👉 <a href="https://github.com/VAISHNAV9891/EcommerceAPI"><b>Check out my recent backend project :D</b></a>
 </p>
 
 <p align="left">
