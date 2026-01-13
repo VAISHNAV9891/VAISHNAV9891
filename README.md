@@ -23,7 +23,7 @@
   <ul>
     <li><b>Access Control:</b> JWT Auth, <b>User Profile Management</b>, and granular <b>Admin Controls</b> (RBAC).</li>
     <li><b>Core Logic:</b> Advanced Cart Management, Order Processing, and Stripe Payments.</li>
-    <li><b>Performance:</b> Optimized Database Indexing and Rate Limiting.</li>
+    <li><b>Performance:</b> Optimized Cursor-based Pagination and Rate Limiting for performance.</li>
   </ul>
   👉 <a href="https://github.com/VAISHNAV9891/EcommerceAPI"><b>Check out my recent backend project :D</b></a>
 </p>
