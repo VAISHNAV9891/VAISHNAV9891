@@ -33,5 +33,5 @@
     <li><b>Payments:</b> Full Stripe Integration with Webhook handling.</li>
     <li><b>Logic:</b> Advanced Cart Management, Order Processing, and Rate Limiting.</li>
   </ul>
-  👉 <a href="[INSERT_YOUR_PROJECT_LINK_HERE]"><b>Check out the Repository / Live Project :D</b></a>
+  👉 <a href="https://github.com/VAISHNAV9891/EcommerceAPI"><b>Check out the Repository / Live Project :D</b></a>
 </p>
